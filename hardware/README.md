@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="./unit_sch_V_0_0_1_ue0066_bmm150_magnetometro.pdf"><img src="resources/Schematics_icon.jpg" width="450px"><br/> Schematic</a>
+<a href="./unit_sch_V_0_0_1_ue0066_bmm150_magnetometro.pdf"><img src="resources/Schematics_icon.jpg" width="550px"><br/> Schematic</a>
 
 </div>
 
@@ -62,4 +62,3 @@
 | JP1   | 2.54mm Castellated Holes                                     |
 
 </div>
-
