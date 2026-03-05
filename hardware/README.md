@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="#"><img src="resources/unit_pinout_v_0_0_2_ue0066_bmm150_en.jpg" width="500px"><br/> Pinout</a>
+<a href="./unit_pinout_v_0_0_2_ue0066_bmm150_en.pdf"><img src="resources/unit_pinout_v_0_0_2_ue0066_bmm150_en.jpg" width="500px"><br/> Pinout</a>
 </div>
   
    **SDO/ADDR** (I²C address select / SPI MISO)
