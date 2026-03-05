@@ -1,4 +1,4 @@
-# Hardware
+# Hardware Documentation
 
 <div align="center">
 
