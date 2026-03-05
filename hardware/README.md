@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="#"><img src="resources/Schematics_icon.jpg" width="450px"><br/> Schematic</a>
+<a href="./unit_datasheet_i2c_bmm150_magnetometer_module_v_1_0.pdf"><img src="resources/Schematics_icon.jpg" width="450px"><br/> Schematic</a>
 
 </div>
 
